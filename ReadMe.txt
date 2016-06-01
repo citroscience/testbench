@@ -1,8 +1,8 @@
-Free Bootstrap Resume/CV Template for developers
+Free Bootstrap theme for project documentation
 
 Theme name:
 =======================================================================
-Orbit
+PrettyDocs
 
 Theme version:
 =======================================================================
@@ -10,7 +10,7 @@ v1.0
 
 Release Date:
 =======================================================================
-29 Jan 2016
+26 Apr 2016
 
 Author: 
 =======================================================================
@@ -19,7 +19,7 @@ Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
 Contact:
 =======================================================================
 Web: http://themes.3rdwavemedia.com/
-Email: hello@3rdwavemedia.com
+Email: themes@3rdwavemedia.com
 Twitter: @3rdwave_themes
 
 License: 
